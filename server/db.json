@@ -1,0 +1,269 @@
+{
+  "products": [
+    {
+      "id": "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Keychain Phone Charger",
+      "price": "29.99",
+      "description": "This keychain lightning charger comes with a plug so you’ll be able to charge anywhere with an outlet. Great for the traveller on the go who always needs their phone.",
+      "images": "kpcharger1.jpg"
+    },
+    {
+      "id": "39ac2118-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Coffee Mug",
+      "price": "11.80",
+      "description": "Classic white coffee mug.",
+      "images": "cwcmug.jpg"
+    },
+    {
+      "id": "4262b2c2-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Coffee Mug",
+      "price": "11.80",
+      "description": "Classic red coffee mug.",
+      "images": "crcmug.jpeg"
+    },
+    {
+      "id": "4c1aa7d4-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Heat Sensitive Coffee Mug",
+      "price": "12.99",
+      "description": "This cool coffee will flow with color as you pour warm coffee into it.",
+      "images": "hscmug.jpg"
+    },
+    {
+      "id": "55bb6ef4-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Heart Shaped Tea Mug",
+      "price": "18.55",
+      "description": "These glass mugs are perfect for romantic tea in the mornings.",
+      "images": "hstmug.jpeg"
+    },
+    {
+      "id": "5d3b9e7e-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Tiny Zip Knife",
+      "price": "21.65",
+      "description": "It’s always convenient to have a tiny knife with you. This is the most portable knife we have seen!",
+      "images": "tzknife.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "id": "0f9a9e93-5384-4ebf-865b-8ab2348210c8"
+    },
+    {
+      "id": "a7a03be4-2b0c-4992-a910-0d92870d5c92"
+    },
+    {
+      "id": "f49f636c-a4bd-4ccf-b83c-7c291d1dfe02"
+    },
+    {
+      "id": "arA3Q1y"
+    },
+    {
+      "id": "146651cd-9da4-4023-bdb3-dbdcf38c2050"
+    }
+  ],
+  "items": [
+    {
+      "item": {
+        "id": "4262b2c2-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic red coffee mug.",
+        "images": "crcmug.jpeg"
+      },
+      "cartID": "d0a4ffe1-8772-4d94-a268-220eaa5bc064",
+      "id": 1
+    },
+    {
+      "id": "dee560d5-62b7-4cf2-aeca-d947d697096b",
+      "cartId": "d0a4ffe1-8772-4d94-a268-220eaa5bc064"
+    },
+    {
+      "item": {
+        "id": "4262b2c2-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic red coffee mug.",
+        "images": "crcmug.jpeg"
+      },
+      "cartId": "undefined",
+      "id": 2
+    },
+    {
+      "item": {
+        "id": "39ac2118-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic white coffee mug.",
+        "images": "cwcmug.jpg"
+      },
+      "cartId": "undefined",
+      "id": 3
+    },
+    {
+      "item": {
+        "id": "4c1aa7d4-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Heat Sensitive Coffee Mug",
+        "price": "12.99",
+        "description": "This cool coffee will flow with color as you pour warm coffee into it.",
+        "images": "hscmug.jpg"
+      },
+      "cartId": "undefined",
+      "id": 4
+    },
+    {
+      "id": "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+      "item": "Keychain Phone Charger",
+      "price": "29.99",
+      "description": "This keychain lightning charger comes with a plug so you’ll be able to charge anywhere with an outlet. Great for the traveller on the go who always needs their phone.",
+      "images": "kpcharger1.jpg",
+      "cartId": "undefined"
+    },
+    {
+      "item": {
+        "id": "4262b2c2-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic red coffee mug.",
+        "images": "crcmug.jpeg"
+      },
+      "cartID": "f49f636c-a4bd-4ccf-b83c-7c291d1dfe02",
+      "id": 5
+    },
+    {
+      "item": {
+        "id": "39ac2118-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic white coffee mug.",
+        "images": "cwcmug.jpg"
+      },
+      "cartID": "f49f636c-a4bd-4ccf-b83c-7c291d1dfe02",
+      "id": 6
+    },
+    {
+      "item": {
+        "id": "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Keychain Phone Charger",
+        "price": "29.99",
+        "description": "This keychain lightning charger comes with a plug so you’ll be able to charge anywhere with an outlet. Great for the traveller on the go who always needs their phone.",
+        "images": "kpcharger1.jpg"
+      },
+      "cartID": "f49f636c-a4bd-4ccf-b83c-7c291d1dfe02",
+      "id": 7
+    },
+    {
+      "item": {
+        "id": "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Keychain Phone Charger",
+        "price": "29.99",
+        "description": "This keychain lightning charger comes with a plug so you’ll be able to charge anywhere with an outlet. Great for the traveller on the go who always needs their phone.",
+        "images": "kpcharger1.jpg"
+      },
+      "cartID": "9c9003a8-95b0-47ef-94a1-26b830b8f7c3",
+      "id": 8
+    },
+    {
+      "item": {
+        "id": "4262b2c2-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic red coffee mug.",
+        "images": "crcmug.jpeg"
+      },
+      "cartID": "9c9003a8-95b0-47ef-94a1-26b830b8f7c3",
+      "id": 9
+    },
+    {
+      "item": {
+        "id": "55bb6ef4-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Heart Shaped Tea Mug",
+        "price": "18.55",
+        "description": "These glass mugs are perfect for romantic tea in the mornings.",
+        "images": "hstmug.jpeg"
+      },
+      "cartID": "9c9003a8-95b0-47ef-94a1-26b830b8f7c3",
+      "id": 10
+    },
+    {
+      "item": {
+        "id": "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Keychain Phone Charger",
+        "price": "29.99",
+        "description": "This keychain lightning charger comes with a plug so you’ll be able to charge anywhere with an outlet. Great for the traveller on the go who always needs their phone.",
+        "images": "kpcharger1.jpg"
+      },
+      "cartID": "9c9003a8-95b0-47ef-94a1-26b830b8f7c3",
+      "id": 11
+    },
+    {
+      "item": {
+        "id": "55bb6ef4-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Heart Shaped Tea Mug",
+        "price": "18.55",
+        "description": "These glass mugs are perfect for romantic tea in the mornings.",
+        "images": "hstmug.jpeg"
+      },
+      "cartID": "9c9003a8-95b0-47ef-94a1-26b830b8f7c3",
+      "id": 12
+    },
+    {
+      "item": {
+        "id": "39ac2118-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic white coffee mug.",
+        "images": "cwcmug.jpg"
+      },
+      "id": 13
+    },
+    {
+      "item": {
+        "id": "2f81a686-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Keychain Phone Charger",
+        "price": "29.99",
+        "description": "This keychain lightning charger comes with a plug so you’ll be able to charge anywhere with an outlet. Great for the traveller on the go who always needs their phone.",
+        "images": "kpcharger1.jpg"
+      },
+      "id": 14
+    },
+    {
+      "item": {
+        "id": "4c1aa7d4-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Heat Sensitive Coffee Mug",
+        "price": "12.99",
+        "description": "This cool coffee will flow with color as you pour warm coffee into it.",
+        "images": "hscmug.jpg"
+      },
+      "id": 15
+    },
+    {
+      "item": {
+        "id": "55bb6ef4-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Heart Shaped Tea Mug",
+        "price": "18.55",
+        "description": "These glass mugs are perfect for romantic tea in the mornings.",
+        "images": "hstmug.jpeg"
+      },
+      "id": 16
+    },
+    {
+      "item": {
+        "id": "5d3b9e7e-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Tiny Zip Knife",
+        "price": "21.65",
+        "description": "It’s always convenient to have a tiny knife with you. This is the most portable knife we have seen!",
+        "images": "tzknife.jpg"
+      },
+      "id": 17
+    },
+    {
+      "item": {
+        "id": "4262b2c2-7531-11e8-86e5-f0d5bf731f68",
+        "item": "Coffee Mug",
+        "price": "11.80",
+        "description": "Classic red coffee mug.",
+        "images": "crcmug.jpeg"
+      },
+      "id": 18
+    }
+  ]
+}
